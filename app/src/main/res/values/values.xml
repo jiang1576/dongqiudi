@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array1">
+        <item>按最新回复</item>
+        <item>按最新发表</item>
+    </string-array>
+    <string-array name="spingarr">
+        <item>五人场</item>
+        <item>七人场</item>
+        <item>11人场</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="spingarr1">
+    <item>7：00-8:00</item>
+    <item>8：00-9:00</item>
+    <item>9：00-10:00</item>
+    <item>11：00-12:00</item>
+    <item>13：00-14:00</item>
+    <item>14：00-15:00</item>
+    <item>15：00-16:00</item>
+    </string-array>
+</resources>
